@@ -1,3 +1,3 @@
-# speedybooks
-this websid develop on php with
+# speedysms
+this websit develop on php with
 full backend
